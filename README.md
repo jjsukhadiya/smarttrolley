@@ -3,5 +3,5 @@ Smart Trolley is a system which helps in reducing time of people while shopping 
 
 Code from this repository can be used for educational purposes, with prior permission.
 
-Author: Prashant Italiya
-Email: italiya@uwindsor.ca
+Author: Jay Sukhadiya / Prashant Italiya
+Email: sukhadi@uwindsor.ca / italiya@uwindsor.ca
